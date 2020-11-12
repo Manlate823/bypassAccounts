@@ -1,0 +1,32 @@
+                      technical short tips
+
+-- install python2.7 first
+-- use checkra1n to jailbreak your device first
+-- Then run start.bat. Select the version you want to bypass.
+
+WARNING : Run option 3 two time for completely backup activation file
+
+============================================================================
+bypass pascode and get sim work
+=================================
+If device not detected
+ Make Sure You Have Already install itunes and python
+ 
+ Step To Get sim working :
+ make sure your device on disable mode or passcode mode
+
+ Follow this step:
+
+ 1. You Must jailbrek using checkrain first
+ 2. Enter option 3 to backup activation file
+    - make sure you see data and file on magic folder at 3 , 4 folder
+      on drive C:/howtostudio/window/magic folder
+      Run again option 3 if folder/file empety
+ 3. Restore device and jailbreak again
+ 4. Enter option 4 to restore activation file
+ 5. Bypass your device (chose bypass option)
+ 0. help to activate data and call fix
+           !! Important! Do with Your Own risk!!
+   #all the risks that occur outside the responsibility of the developer#
+
+

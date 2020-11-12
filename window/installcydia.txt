@@ -1,0 +1,3 @@
+sudo apt-get install cydia
+
+su Mobile –c uicache

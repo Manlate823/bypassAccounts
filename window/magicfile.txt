@@ -1,0 +1,6 @@
+mkdir /var/mobile/Media/3
+mkdir /var/mobile/Media/3/Library
+mkdir /var/mobile/Media/4
+find /private/var/containers/Data/System -iname 'data_ark.plist' -exec cp {} /var/mobile/Media/4/ \;
+find /private/var/containers/Data/System -iname 'activation_record.plist' -exec cp {} /var/mobile/Media/4/ \;
+cp -r /private/var/wireless/Library/ /var/mobile/Media/3/Library/

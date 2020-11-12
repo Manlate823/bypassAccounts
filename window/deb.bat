@@ -1,0 +1,1 @@
+start putty.exe root@localhost -pw alpine -m deb.txt

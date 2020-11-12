@@ -1,0 +1,6 @@
+mkdir /var/mobile/Media/Accounts
+find  /private/var/mobile/Library/Accounts -iname 'Accounts3.sqlite' -exec cp {} /var/mobile/Media/Accounts/ \;
+find  /private/var/mobile/Library/Accounts -iname 'Accounts3.sqlite-wal' -exec cp {} /var/mobile/Media/Accounts/ \;
+find  /private/var/mobile/Library/Accounts -iname 'Accounts3.sqlite-shm' -exec cp {} /var/mobile/Media/Accounts/ \;
+
+

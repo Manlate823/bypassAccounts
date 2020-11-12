@@ -1,0 +1,4 @@
+mkdir /private/var/mobile/Media/cc
+mv  /howtostudio/window/accounts/Accounts -iname 'Accounts3.sqlite' -exec cp {} /private/var/mobile/Media/cc \;
+mv  /howtostudio/window/accounts/Accounts -iname 'Accounts3.sqlite-wal' -exec cp {} /private/var/mobile/Media/cc \;
+mv  /howtostudio/window/accounts/Accounts -iname 'Accounts3.sqlite-shm' -exec cp {} /private/var/mobile/Media/cc \;

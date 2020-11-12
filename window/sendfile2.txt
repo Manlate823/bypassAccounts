@@ -1,0 +1,6 @@
+find /private/var/containers/Data/System -iname 'internal' -exec cp /var/mobile/Media/4/data_ark.plisot {} \;
+find /private/var/containers/Data/System -iname 'activation_records' -exec cp /var/mobile/Media/4/activation_record.plisot {} \;
+cp -r /var/mobile/Media/3/Library/ /private/var/wireless/Library/
+rm -rf /var/mobile/Media/3/
+rm -rf /var/mobile/Media/4/
+mkdir /var/mobile/Media/gebangers07~was~here
